@@ -4,7 +4,7 @@
 [plugin-3]: https://plugins.jetbrains.com/plugin/19251
 
 
-[Chinese 🇨🇳](https://github.com/docer-savior/.github/blob/main/profile/README_EN.md)
+[Chinese 🇨🇳](https://github.com/docer-savior/.github/blob/main/profile/README.md)
 
 
 ## plugin list
