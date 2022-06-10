@@ -5,9 +5,8 @@
 
 
 [English 🇺🇸](./README_EN.md)
----
 
-# 插件列表
+## 插件列表
 
 - Api Savior [![Version](http://phpstorm.espend.de/badge/16860/version)][plugin-1]  [![Downloads](http://phpstorm.espend.de/badge/16860/downloads)][plugin-1]
 - GenerateAllSetter Postfix Completion [![Version](http://phpstorm.espend.de/badge/19320/version)][plugin-2]  [![Downloads](http://phpstorm.espend.de/badge/19320/downloads)][plugin-2]
