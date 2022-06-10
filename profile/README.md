@@ -4,7 +4,7 @@
 [plugin-3]: https://plugins.jetbrains.com/plugin/19251
 
 
-[English 🇺🇸](https://github.com/docer-savior/.github/edit/main/profile/README_EN.md)
+[English 🇺🇸](https://github.com/docer-savior/.github/blob/main/profile/README_EN.md)
 
 ## 插件列表
 
