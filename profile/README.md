@@ -18,3 +18,7 @@
 > 以上是插件的一些信息和链接! 欢迎大家一起共建!
 
 [贡献指南](https://github.com/docer-savior/docer-savior-idea-plugin/blog/master/CONTRIBUTING_CN.md)
+
+另外 欢迎加群  
+
+![ding-xiao](https://user-images.githubusercontent.com/25474608/173784212-95ca6cbf-6590-4e90-b635-8346589be701.JPG)
