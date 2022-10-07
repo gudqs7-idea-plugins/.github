@@ -17,7 +17,7 @@
 
 > 以上是插件的一些信息和链接! 欢迎大家一起共建!
 
-[贡献指南](https://github.com/gudqs7-idea-plugins/api-savior/blog/master/CONTRIBUTING_CN.md)
+[贡献指南](https://github.com/gudqs7-idea-plugins/api-savior/blob/master/CONTRIBUTING_CN.md)
 
 另外 欢迎加群  
 
