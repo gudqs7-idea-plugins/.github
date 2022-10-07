@@ -18,4 +18,4 @@
 
 > The above are some information and links of the plugin! Welcome to build together!
 
-[Contribution guide](https://github.com/gudqs7-idea-plugins/api-savior/blog/master/CONTRIBUTING_CN.md)
+[Contribution guide](https://github.com/gudqs7-idea-plugins/api-savior/blob/master/CONTRIBUTING.md)
