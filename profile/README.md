@@ -19,6 +19,7 @@
 
 [贡献指南](https://github.com/gudqs7-idea-plugins/api-savior/blob/master/CONTRIBUTING_CN.md)
 
-另外 欢迎加群  
-
-![ding-xiao](https://user-images.githubusercontent.com/25474608/173784212-95ca6cbf-6590-4e90-b635-8346589be701.JPG)
+> 因本项目作者心累,不再维护!
+> 推荐使用其他产品, 如
+> - https://github.com/tangcent/easy-api
+> - https://github.com/liuzhihang/doc-view
